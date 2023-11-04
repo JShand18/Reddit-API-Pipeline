@@ -25,7 +25,7 @@ SECRET = parser.get("reddit_config", "secret")
 CLIENT_ID = parser.get("reddit_config", "client_id")
 
 # Options for extracting data from PRAW
-SUBREDDIT = "dataengineering"
+SUBREDDIT = "music"
 TIME_FILTER = "day"
 LIMIT = None
 
